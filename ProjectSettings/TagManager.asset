@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - borde
+  - target
+  - Presa
+  - Cazador
+  - boca
+  - pedo
+  - feromona
+  - decoracion
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Detection
+  - Water
+  - UI
+  - Premio
+  - Cazador
+  - Decorado
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
